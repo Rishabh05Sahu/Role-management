@@ -10,7 +10,7 @@ The project is built with **React** for the frontend, **Node.js/Express** for th
 ### **Deployed Project**
 
 You can view the deployed project at:
-[User Management Dashboard (Deployed)](https://user-management-dashboard-rosy.vercel.app)
+[User Management Dashboard (Deployed)](https://role-management-one.vercel.app/)
 
 ---
 
@@ -44,7 +44,7 @@ To get started with the frontend, follow these steps:
    If you want to use the deployed backend, you can use the following URL:
 
    ```env
-   REACT_APP_BACKEND_URL="https://user-management-backend-ten.vercel.app/"
+   REACT_APP_BACKEND_URL="https://role-management-backend.vercel.app"
    ```
 
 4. **Install the dependencies:**
@@ -83,8 +83,6 @@ To set up the backend:
   DB_USER=rishabhsahu13873
   DB_PASSWORD=Em792tRohEe36tvt
   DB_NAME=main
-
-
    ```
 
 3. **Install the backend dependencies:**
