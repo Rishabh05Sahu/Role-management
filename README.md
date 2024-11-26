@@ -79,11 +79,11 @@ To set up the backend:
 
    Create a `.env` file with the following configuration:
 
-   ```env
+  ```env
   DB_USER=rishabhsahu13873
   DB_PASSWORD=Em792tRohEe36tvt
   DB_NAME=main
-   ```
+  ```
 
 3. **Install the backend dependencies:**
 
