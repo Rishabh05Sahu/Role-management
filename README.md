@@ -24,7 +24,7 @@ To get started with the frontend, follow these steps:
 
    ```bash
    git clone https://github.com/Rishabh05Sahu/Role-management.git
-   cd user-management-dashboard
+   cd user-management-dashboard-main
    ```
 
 2. **Navigate to the `frontend` directory:**
